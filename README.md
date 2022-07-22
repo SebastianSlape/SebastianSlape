@@ -1,5 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-My name is Sebastian Slape and I am interested in Backend Development. <!---If you would like to talk or collaborate, you can reach me at my [Website](https://nozzy.epizy.com), [Instagram](https://www.instagram.com/nozzyftw) or my [Discord](https://discord.gg/MmrYxKrZy3).
+My name is Sebastian Slape and I am interested in Backend Development. 
+<!---If you would like to talk or collaborate, you can reach me at my [Website](https://nozzy.epizy.com), [Instagram](https://www.instagram.com/nozzyftw) or my [Discord](https://discord.gg/MmrYxKrZy3).
 --->
 ## 🔧 Tools
 [<img src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=0078D6">](https://www.microsoft.com/en-au/windows/get-windows-10) [<img src="https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=5C2D91">](https://visualstudio.microsoft.com/)
